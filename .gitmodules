@@ -1,0 +1,6 @@
+[submodule "cxx-tutorial"]
+	path = cxx-tutorial
+	url = https://github.com/yanuartadityan/cxx-tutorial.git
+[submodule "cuda-tutorial"]
+	path = cuda-tutorial
+	url = https://github.com/yanuartadityan/cuda-tutorial.git
